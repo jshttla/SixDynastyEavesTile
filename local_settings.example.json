@@ -1,0 +1,4 @@
+{
+  "_comment": "Optional. Copy to local_settings.json (git-ignored) to set machine-specific paths.",
+  "met_snapshot_html": "optional saved copy of the Met image-resources page (collect_met.py fallback)"
+}

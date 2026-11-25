@@ -1,0 +1,19 @@
+# local-only working data and large binaries are never committed
+data_local/
+raw/
+images/
+std/
+rect/
+data/
+dist/
+cloud/work/
+*.zip
+*.parquet
+.venv*/
+__pycache__/
+*.pyc
+.env
+secrets*.env
+# machine-specific values
+local_settings.json
+cloud/cloud.env
